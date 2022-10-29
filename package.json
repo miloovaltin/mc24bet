@@ -1,16 +1,16 @@
 {
-"name": "mc24bet",
-"theme": "mc24bet",
-"version": "2.1.1",
-"description": "mc24bet ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
-"keywords": [
-"mc24bet",
-"mc24bet เครดิตฟรี",
-"mc24bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mc24bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mc24bet",
+  "theme": "mc24bet",
+  "version": "2.2.0",
+  "description": "mc24bet ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
+  "keywords": [
+    "mc24bet",
+    "mc24bet เครดิตฟรี",
+    "mc24bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mc24bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
